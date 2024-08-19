@@ -1,18 +1,4 @@
 rules_data:
-  - product: your_product_update
-    table: dq_spark_dev.customer_order
-    type: row_dq
-    name: sales_greater_than_zero
-    column: sales
-    condition: sales > 2
-    action: ignore
-    category: accuracy
-    description: sales value should be greater than zero
-    enabled: false
-    notification: false
-    threshold: 0
-    additional_info: null
-    index: 0
   - product: your_product
     table: dq_spark_{env}.customer_order
     type: row_dq
