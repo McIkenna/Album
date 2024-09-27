@@ -219,7 +219,7 @@ rules_data:
     index: 14
   - product: Another testing
     table: ''
-    type: ''
+    type: query_dq
     name: ''
     column: ''
     condition: ''
@@ -230,3 +230,6 @@ rules_data:
     notification: ''
     threshold: ''
     additional info: ''
+    index: 15
+    querydq output to custom table: 'True'
+    querydq delimiter: '@ as the default'
