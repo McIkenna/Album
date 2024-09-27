@@ -1,0 +1,7 @@
+[[rules_data]]
+product_name = "your product name"
+dq_rules_filename = "rules.yaml"
+
+[[rules_data]]
+product_name = "your product name"
+dq_rules_filename = "dq_rules.yaml"
