@@ -203,3 +203,16 @@ rules_data:
     notification: false
     threshold: 0
     additional_info: null
+  - product: New test
+    table: ''
+    type: ''
+    name: ''
+    column: ''
+    condition: ''
+    action: ''
+    category: ''
+    description: ''
+    enabled: ''
+    notification: ''
+    threshold: ''
+    additional info: ''
