@@ -231,19 +231,3 @@ rules_data:
     threshold: ''
     additional info: ''
     index: 15
-  - product: New Test
-    table: ''
-    type: query_dq
-    name: ''
-    column: ''
-    condition: ''
-    action: ''
-    category: ''
-    description: ''
-    enabled: ''
-    notification: ''
-    threshold: ''
-    additional info: ''
-    index: 16
-    querydq output to custom table: 'True'
-    querydq delimiter: '@ as the default'
