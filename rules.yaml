@@ -217,3 +217,16 @@ rules_data:
     threshold: ''
     additional info: ''
     index: 14
+  - product: Another testing
+    table: ''
+    type: ''
+    name: ''
+    column: ''
+    condition: ''
+    action: ''
+    category: ''
+    description: ''
+    enabled: ''
+    notification: ''
+    threshold: ''
+    additional info: ''
