@@ -203,7 +203,7 @@ rules_data:
     notification: false
     threshold: 0
     additional_info: null
-  - product: Commented changes
+  - product: Commented changes 4
     table: ''
     type: query_dq
     name: ''
@@ -218,3 +218,4 @@ rules_data:
     additional info: ''
     querydq output to custom table: 'True'
     querydq delimiter: '@ as the default'
+    index: 14
