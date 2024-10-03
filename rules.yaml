@@ -203,7 +203,7 @@ rules_data:
     notification: false
     threshold: 0
     additional_info: null
-  - product: Commented changes 4
+  - product: Commented changes
     table: ''
     type: query_dq
     name: ''
