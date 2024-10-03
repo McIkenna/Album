@@ -203,7 +203,7 @@ rules_data:
     notification: false
     threshold: 0
     additional_info: null
-  - product: Just a test
+  - product: Just a test editted
     table: ''
     type: ''
     name: ''
@@ -216,3 +216,4 @@ rules_data:
     notification: ''
     threshold: ''
     additional info: ''
+    index: 14
