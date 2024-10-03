@@ -205,7 +205,7 @@ rules_data:
     additional_info: null
   - product: Just a test editted
     table: ''
-    type: ''
+    type: query_dq
     name: ''
     column: ''
     condition: ''
@@ -217,3 +217,4 @@ rules_data:
     threshold: ''
     additional info: ''
     index: 14
+    querydq delimiter: '@ as the default'
