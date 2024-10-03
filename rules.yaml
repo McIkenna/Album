@@ -203,7 +203,7 @@ rules_data:
     notification: false
     threshold: 0
     additional_info: null
-  - product: New test
+  - product: New test 2
     table: ''
     type: query_dq
     name: ''
