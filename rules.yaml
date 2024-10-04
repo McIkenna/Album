@@ -190,7 +190,7 @@ rules_data:
     threshold: 0
     additional_info: null
     active: true
-  - product: your_product
+  - product: your_product 2
     table: dq_spark_{env}.customer_order
     type: agg_dq
     name: distinct_of_ship_mode
